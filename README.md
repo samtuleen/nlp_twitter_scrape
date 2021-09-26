@@ -1,1 +1,2 @@
-# nlp_twitter_scrape
+# Twitter Scraper - NLP
+The repository contains code for a twitter scraper.
