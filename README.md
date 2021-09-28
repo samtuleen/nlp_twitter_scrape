@@ -18,7 +18,7 @@ The repository contains a README and a [notebook](https://github.com/samtuleen/n
 
 In order to follow along and build your own scraper, you must set up your personal API keys. You can do so in the following steps:
 
-1- Open a text (*.txt)* file and rename (this file will house our keys and must be kept secure). In this example, I've named my file "keys.txt"
+1- Create a text (*.txt)* file and rename (this file will house our keys and must be kept secure). In this example, I've used Notepad named my file "keys.txt"
 
 2- Set up your file in the required format. For API keys, there will need to be at least 1 header followed by the keys stored in variables, or 'names'. Refer to the picture below for the format:
 
