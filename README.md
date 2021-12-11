@@ -2,7 +2,7 @@
 
 # Twitter Scraper - For Using in NLP (Natural Language Processing)
 
-Twitter represents an immense and largely untapped resource for data (as do , along with other social media platforms,. An invaluable source of user information and public realtime data on almost every topic in today's world, Twitter remains the most popular platform for research, as it still provides its data via a number of APIs, or Application Programming Interfaces.
+Twitter represents an immense and largely untapped resource for data (as do other social media platforms). As an invaluable source of user information and public realtime data on almost every topic in today's world, Twitter remains the most popular platform for research, as it still provides its data via a number of APIs, or Application Programming Interfaces.
 
 # What is Natural Language Processing, or 'NLP'?
 
