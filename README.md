@@ -1,6 +1,6 @@
 ![twitterheader](https://user-images.githubusercontent.com/71333855/134987768-631c0cf0-5bab-40c3-b01f-5df10381e886.jpeg)
 
-# Twitter Scraper - For Using NLP (Natural Language Processing)
+# Twitter Scraper - For Using in NLP (Natural Language Processing)
 
 Twitter, along with other social media platforms, represents an immense and largely untapped resource for data. An invaluable source of user information and public realtime data on almost every topic in today's world, Twitter remains the most popular platform for research, as it still provides its data via a number of APIs, or Application Programming Interfaces.
 
