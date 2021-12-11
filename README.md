@@ -4,7 +4,7 @@
 
 Twitter, along with other social media platforms, represents an immense and largely untapped resource for data. An invaluable source of user information and public realtime data on almost every topic in today's world, Twitter remains the most popular platform for research, as it still provides its data via a number of APIs, or Application Programming Interfaces.
 
-# What is Natural Language Processing, or NLP?
+# What is Natural Language Processing, or 'NLP'?
 
 **Natural language processing (NLP)** refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can. NLP has become an essential business tool for uncovering hidden data insights from social media channels. Sentiment analysis can analyze language used in social media posts, responses, reviews, and more to extract attitudes and emotions in response to products, promotions, and events–information companies can use in product designs, advertising campaigns, and more.
 
