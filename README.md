@@ -6,7 +6,7 @@ Twitter represents an immense and largely untapped resource for data (as do othe
 
 # What is Natural Language Processing, or 'NLP'?
 
-**Natural language processing (NLP)** refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can. NLP has become an essential business tool for uncovering hidden data insights from social media channels. Sentiment analysis can analyze language used in social media posts, responses, reviews, and more to extract attitudes and emotions in response to products, promotions, and events–information companies can use in product designs, advertising campaigns, and more.
+**Natural language processing (NLP)** refers to the branch of computer science — and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can. NLP has become an essential business tool for uncovering hidden data insights from social media channels. Sentiment analysis can analyze language used in social media posts, responses, reviews, and more to extract attitudes and emotions in response to products, promotions, and events–information companies can use in product designs, advertising campaigns, and more.
 
 A number of tools can be utilized using the data that Twitter provides us, including but not limited to Natural Language Understanding (NLU), which analyzes text in unstructured data formats.
 
